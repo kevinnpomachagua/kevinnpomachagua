@@ -22,14 +22,6 @@ Me especializo en el ciclo completo de pruebas (**STLC**), desde el análisis fu
 
 ---
 
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnpomachagua&theme=tokyonight" alt="GitHub Streak" height="150" />
-</p>
-
----
-
 ### 📬 Conecta conmigo
 
 <a href="https://www.linkedin.com/in/zhamirk/" target="_blank">
